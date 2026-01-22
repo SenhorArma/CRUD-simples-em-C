@@ -1,5 +1,3 @@
-Projeto CRUD simples
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -154,3 +152,4 @@ void removerAluno() {
     else
         printf("Aluno nao encontrado.\n");
 }
+
